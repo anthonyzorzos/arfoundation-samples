@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 114957203121655242}
   - component: {fileID: 3258786451724037531}
   m_Layer: 0
-  m_Name: FaceBlendShapes
+  m_Name: SlothHead
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -137,6 +137,7 @@ SkinnedMeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
