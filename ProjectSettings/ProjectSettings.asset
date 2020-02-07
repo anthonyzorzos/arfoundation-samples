@@ -166,7 +166,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.unity.arfoundation.samples
     Standalone: com.unity.arfoundation.samples
-    iPhone: io.Mantlecore.ARKitFaceBlendShapes
+    iPhone: com.Mantlecore.ARKitFaceBlendShapes
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 24
